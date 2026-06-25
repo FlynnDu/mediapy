@@ -7,3 +7,4 @@ __pycache__/
 /*.egg
 .ipynb_checkpoints/
 /pdoc_files/html/
+/.idea
